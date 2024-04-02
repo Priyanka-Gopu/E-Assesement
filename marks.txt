@@ -1,0 +1,3 @@
+rajesh,80.0
+raju,20.0
+kiran,60.0
